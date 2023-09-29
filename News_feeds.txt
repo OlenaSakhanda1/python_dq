@@ -1,0 +1,9 @@
+Tasks-------------------------
+ Wash the CAR
+ group: Car
+ priority: 3
+ story_points: 5
+
+ News-------------------------
+ Ba-bah
+ MoSkow,  2023-09-29 17:08:17.853359

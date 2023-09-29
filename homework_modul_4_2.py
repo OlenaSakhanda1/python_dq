@@ -33,13 +33,14 @@ text = '''homEwork:
 
 	last iz TO calculate nuMber OF Whitespace characteRS in this Text. caREFULL, not only Spaces, but ALL whitespaces. I got 87.'''
 
-whitespace_count = text.count(" ") + text.count("\t") + text.count("\n")
-result_text = normalizing_letter_cases_in_text(text)
-last_words_sentence = sentence_with_last_words(result_text)
-new_text = result_text + '\n' + last_words_sentence
-corrected_text = result_text.replace(" iz ", " is ")
+if __name__ == '__main__':
+    whitespace_count = text.count(" ") + text.count("\t") + text.count("\n")
+    result_text = normalizing_letter_cases_in_text(text)
+    last_words_sentence = sentence_with_last_words(result_text)
+    new_text = result_text + '\n' + last_words_sentence
+    corrected_text = result_text.replace(" iz ", " is ")
 
-print(corrected_text)
-print("Number of whitespace characters:", whitespace_count)
+    print(corrected_text)
+    print("Number of whitespace characters:", whitespace_count)
 
 

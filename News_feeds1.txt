@@ -1,0 +1,28 @@
+Private_ad-------------------------
+ Will sell bike
+ Actual until: 2025-11-11, 774 days left
+
+News-------------------------
+ Ba-bah
+ Moskow,  2023-09-29 17:10:39.577925
+
+Tasks-------------------------
+ Wash the car
+ group: Car
+ priority: 3
+ story_points: 5
+
+Private_ad-------------------------
+ Will buy a car
+ Actual until: 2026-10-12, 1109 days left
+
+Tasks-------------------------
+ Wash the car
+ group: car
+ priority: 3
+ story_points: 5
+
+News-------------------------
+ Ba-bah
+ Moskow,  2023-09-29 18:02:01.974222
+
